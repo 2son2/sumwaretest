@@ -5,7 +5,7 @@ import java.util.Properties;
 
 import action.Action;
 
-
+//// 깃허브 테스트용 주석
 public class ActionFactory {
 	private static ActionFactory af;
 	private Properties prop;
